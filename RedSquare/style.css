@@ -1,0 +1,20 @@
+#main{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: 1s;
+    
+}
+#other{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    position: absolute;
+    top: 10%;
+    left: 80%;
+    visibility: hidden;
+}

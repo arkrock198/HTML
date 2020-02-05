@@ -1,0 +1,11 @@
+body{
+    background-color: skyblue;
+}
+.sample{
+    background-color: lightgray;
+    border: solid black 1px;
+}
+.sb{
+    background-color: aqua;
+    border: solid black 1px;
+}
